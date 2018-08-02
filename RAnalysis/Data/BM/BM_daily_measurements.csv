@@ -1,93 +1,275 @@
-﻿Date,Time,Tank,Quadrat,Experimental.Stage,Light.PAR,Temp.C,pH,Salinity,Conductivity,Initials,Notes,Weather
-20180717,16:03,6,1,parental.exposure,818,29.01,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks,Stormy/Cloudy
-20180717,16:03,6,2,parental.exposure,964,29.01,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks,Stormy/Cloudy
-20180717,16:03,7,1,parental.exposure,915,29.05,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks,Stormy/Cloudy
-20180717,16:03,7,2,parental.exposure,125,29.05,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks,Stormy/Cloudy
-20170718,14:15,5,1,parental.exposure,76,27.63,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,5,2,parental.exposure,73,27.59,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,6,1,parental.exposure,79,28.49,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,6,2,parental.exposure,74,28.52,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,7,1,parental.exposure,84,28.88,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,7,2,parental.exposure,59,28.94,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,8,1,parental.exposure,104,27.67,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,14:15,8,2,parental.exposure,103,27.6,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:54,5,1,parental.exposure,25,28.19,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:55,5,2,parental.exposure,28,28.17,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:53,6,1,parental.exposure,27,29.59,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:54,6,2,parental.exposure,25,29.61,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:55,7,1,parental.exposure,25,29.92,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:55,7,2,parental.exposure,23,29.93,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:56,8,1,parental.exposure,23,28.07,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20170718,18:57,8,2,parental.exposure,25,28.02,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20180719,13:00,5,1,parental.exposure,229,27.93,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks,Stormy/Cloudy
-20180719,13:00,5,2,parental.exposure,185,27.91,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:03,6,1,parental.exposure,360,30.14,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:04,6,2,parental.exposure,354,30.15,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:01,7,1,parental.exposure,360,30.29,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:01,7,2,parental.exposure,363,30.3,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:04,8,1,parental.exposure,225,27.95,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,13:05,8,2,parental.exposure,194,28.13,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:05,5,1,parental.exposure,24,28.15,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:04,5,2,parental.exposure,25,28.16,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:03,6,1,parental.exposure,26,29.64,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:03,6,2,parental.exposure,27,29.62,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:06,7,1,parental.exposure,24,29.89,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:07,7,2,parental.exposure,24,29.9,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:05,8,1,parental.exposure,23,28.05,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180719,18:06,8,2,parental.exposure,25,28.08,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719,Stormy/Cloudy
-20180720,12:43,5,1,parental.exposure,233,27.99,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:41,5,2,parental.exposure,201,27.97,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:40,6,1,parental.exposure,355,30.22,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:41,6,2,parental.exposure,363,30.19,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:44,7,1,parental.exposure,345,30.33,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:44,7,2,parental.exposure,355,30.31,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:43,8,1,parental.exposure,233,27.96,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,12:43,8,2,parental.exposure,201,28.15,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:28,5,1,parental.exposure,66,28.01,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:29,5,2,parental.exposure,63,28,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:30,6,1,parental.exposure,65,30.33,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:30,6,2,parental.exposure,67,30.35,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:29,7,1,parental.exposure,63,30.34,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:29,7,2,parental.exposure,64,30.38,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:30,8,1,parental.exposure,61,28.28,NA,NA,NA,VS,,Stormy/Cloudy
-20180720,17:30,8,2,parental.exposure,56,28.07,NA,NA,NA,VS,,Stormy/Cloudy
-20180721,12:03,5,1,parental.exposure,288,28.01,NA,NA,NA,VS,,Clear/Sunny
-20180721,12:02,5,2,parental.exposure,301,28.04,NA,NA,NA,VS,,Clear/Sunny
-20180721,12:02,6,1,parental.exposure,305,30.2,NA,NA,NA,VS,,Clear/Sunny
-20180721,12:01,6,2,parental.exposure,355,30.19,NA,NA,NA,VS,,Clear/Sunny
-20180721,12:01,7,1,parental.exposure,362,30.25,NA,NA,NA,VS,,Clear/Sunny
-20180721,12:00,7,2,parental.exposure,228,30.32,NA,NA,NA,VS,,Clear/Sunny
-20180721,11:59,8,1,parental.exposure,220,28.22,NA,NA,NA,VS,,Clear/Sunny
-20180721,11:59,8,2,parental.exposure,82,28.19,NA,NA,NA,VS,,Clear/Sunny
-20180722,12:21,5,1,parental.exposure,209,28.01,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:21,5,2,parental.exposure,378,27.99,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:20,6,1,parental.exposure,355,30.25,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:20,6,2,parental.exposure,348,30.28,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:22,7,1,parental.exposure,378,30.3,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:23,7,2,parental.exposure,289,28,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:23,8,1,parental.exposure,220,28.03,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,12:24,8,2,parental.exposure,66,28.04,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:32,5,1,parental.exposure,27,28.11,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:32,5,2,parental.exposure,28,28.12,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:29,6,1,parental.exposure,26,29.82,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:30,6,2,parental.exposure,27,29.8,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:30,7,1,parental.exposure,25,29.91,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:31,7,2,parental.exposure,23,29.94,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:32,8,1,parental.exposure,22,28.07,NA,NA,NA,VS,,Stormy/Cloudy
-20180722,18:33,8,2,parental.exposure,25,28.1,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:00,5,1,parental.exposure,1255,29.11,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:01,5,2,parental.exposure,1225,29.08,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:01,6,1,parental.exposure,1026,31.81,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:03,6,2,parental.exposure,1485,31.87,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:04,7,1,parental.exposure,1488,31.99,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:04,7,2,parental.exposure,1260,32.04,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:05,8,1,parental.exposure,1446,29.49,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,14:06,8,2,parental.exposure,1120,29.4,NA,NA,NA,VS,,Stormy/Cloudy
-20180723,,5,1,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,5,2,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,6,1,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,6,2,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,7,1,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,7,2,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,8,1,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
-20180723,,8,2,parental.exposure,,,NA,NA,NA,VS,,Clear/Sunny
+﻿Date,Time,Sample.ID,Type,Quadrat,Experimental.Stage,Treatment,Temperature,Light,pH,Salinity,Conductivity,Initials,Notes
+20180709,12:38,Tank1,Tank,1,inc.test,Ambient,27.35,124,NA,NA,NA,VS,Incubation tanks
+20180709,12:38,Tank1,Tank,2,inc.test,Ambient,27.35,133,NA,NA,NA,VS,Incubation tanks
+20180709,12:38,Tank1,Tank,3,inc.test,Ambient,27.35,111,NA,NA,NA,VS,Incubation tanks
+20180709,12:39,Tank2,Tank,1,inc.test,Hot,27.64,307,NA,NA,NA,VS,Incubation tanks
+20180709,12:39,Tank2,Tank,2,inc.test,Hot,27.64,340,NA,NA,NA,VS,Incubation tanks
+20180709,12:39,Tank2,Tank,3,inc.test,Hot,27.64,331,NA,NA,NA,VS,Incubation tanks
+20180709,12:40,Tank3,Tank,1,inc.test,Ambient,27.6,295,NA,NA,NA,VS,Incubation tanks
+20180709,12:40,Tank3,Tank,2,inc.test,Ambient,27.6,297,NA,NA,NA,VS,Incubation tanks
+20180709,12:40,Tank3,Tank,3,inc.test,Ambient,27.6,308,NA,NA,NA,VS,Incubation tanks
+20180709,12:41,Tank4,Tank,1,inc.test,Hot,29.15,83,NA,NA,NA,VS,Incubation tanks
+20180709,12:41,Tank4,Tank,2,inc.test,Hot,29.15,92,NA,NA,NA,VS,Incubation tanks
+20180709,12:41,Tank4,Tank,3,inc.test,Hot,29.15,79,NA,NA,NA,VS,Incubation tanks
+20180709,12:42,Common.garden,Tray,1,inc.test,Ambient,26.7,278,NA,NA,NA,VS,Incubation tanks
+20180709,12:42,Common.garden,Tray,2,inc.test,Ambient,26.65,313,NA,NA,NA,VS,Incubation tanks
+20180709,12:42,Common.garden,Tray,3,inc.test,Ambient,26.6,285,NA,NA,NA,VS,Incubation tanks
+20180709,12:43,Common.garden,Tray,4,inc.test,Ambient,26.66,355,NA,NA,NA,VS,Incubation tanks
+20180709,12:43,Common.garden,Tray,5,inc.test,Ambient,26.51,155,NA,NA,NA,VS,Incubation tanks
+20180709,12:43,Common.garden,Tray,6,inc.test,Ambient,26.38,170,NA,NA,NA,VS,Incubation tanks
+20180709,14:12,Tank1,Tank,1,inc.test,Ambient,27.34,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank1,Tank,2,inc.test,Ambient,27.34,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank1,Tank,3,inc.test,Ambient,27.34,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank2,Tank,1,inc.test,Hot,29.04,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank2,Tank,2,inc.test,Hot,29.04,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank2,Tank,3,inc.test,Hot,29.04,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank3,Tank,1,inc.test,Ambient,27.56,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank3,Tank,2,inc.test,Ambient,27.56,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank3,Tank,3,inc.test,Ambient,27.56,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank4,Tank,1,inc.test,Hot,29.22,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank4,Tank,2,inc.test,Hot,29.22,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Tank4,Tank,3,inc.test,Hot,29.22,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,1,inc.test,Ambient,26.71,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,2,inc.test,Ambient,26.81,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,3,inc.test,Ambient,26.82,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,4,inc.test,Ambient,26.8,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,5,inc.test,Ambient,26.81,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,14:12,Common.garden,Tray,6,inc.test,Ambient,26.8,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank1,Tank,1,inc.test,Ambient,27.6,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank1,Tank,2,inc.test,Ambient,27.6,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank1,Tank,3,inc.test,Ambient,27.6,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank2,Tank,1,inc.test,Hot,29.91,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank2,Tank,2,inc.test,Hot,29.91,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank2,Tank,3,inc.test,Hot,29.91,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank3,Tank,1,inc.test,Ambient,27.84,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank3,Tank,2,inc.test,Ambient,27.84,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank3,Tank,3,inc.test,Ambient,27.84,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank4,Tank,1,inc.test,Hot,29.55,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank4,Tank,2,inc.test,Hot,29.55,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Tank4,Tank,3,inc.test,Hot,29.55,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,1,inc.test,Ambient,26.88,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,2,inc.test,Ambient,26.93,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,3,inc.test,Ambient,26.87,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,4,inc.test,Ambient,26.85,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,5,inc.test,Ambient,26.82,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180709,18:49,Common.garden,Tray,6,inc.test,Ambient,26.8,NA,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180710,18:33,Tank1,Tank,1,inc.test,Ambient,27.94,110,NA,NA,NA,VS,Incubation tanks; only did temperature because I was adjusting the heaters
+20180710,18:33,Tank1,Tank,2,inc.test,Ambient,27.94,130,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank1,Tank,3,inc.test,Ambient,27.94,110,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank2,Tank,1,inc.test,Hot,30.27,301,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank2,Tank,2,inc.test,Hot,30.27,376,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank2,Tank,3,inc.test,Hot,30.27,337,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank3,Tank,1,inc.test,Ambient,28.14,246,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank3,Tank,2,inc.test,Ambient,28.14,345,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank3,Tank,3,inc.test,Ambient,28.14,310,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank4,Tank,1,inc.test,Hot,29.88,87,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank4,Tank,2,inc.test,Hot,29.88,94,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Tank4,Tank,3,inc.test,Hot,29.88,81,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,1,inc.test,Ambient,26.91,184,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,2,inc.test,Ambient,26.9,195,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,3,inc.test,Ambient,26.92,225,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,4,inc.test,Ambient,26.9,230,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,5,inc.test,Ambient,26.91,101,NA,NA,NA,VS,Incubation tanks
+20180710,18:33,Common.garden,Tray,6,inc.test,Ambient,26.93,110,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks
+20180717,16:03,Tank6,Tank,1,test,Hot,29.01,818,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks
+20180717,16:03,Tank6,Tank,2,test,Hot,29.01,964,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks
+20180717,16:03,Tank7,Tank,1,test,Hot,29.05,915,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks
+20180717,16:03,Tank7,Tank,2,test,Hot,29.05,925,NA,NA,NA,VS,Only tanks set up because histology corals are occupying the other two fiber class tanks
+20170718,14:15,Tank5,Tank,1,parental.exposure,Ambient,27.63,76,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank5,Tank,2,parental.exposure,Ambient,27.59,73,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank6,Tank,1,parental.exposure,Hot,28.49,79,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank6,Tank,2,parental.exposure,Hot,28.52,74,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank7,Tank,1,parental.exposure,Hot,28.88,84,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank7,Tank,2,parental.exposure,Hot,28.94,59,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank8,Tank,1,parental.exposure,Ambient,27.67,104,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,14:15,Tank8,Tank,2,parental.exposure,Ambient,27.6,103,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:54,Tank5,Tank,1,parental.exposure,Ambient,28.19,25,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:55,Tank5,Tank,2,parental.exposure,Ambient,28.17,28,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:53,Tank6,Tank,1,parental.exposure,Hot,29.59,27,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:54,Tank6,Tank,2,parental.exposure,Hot,29.61,25,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:55,Tank7,Tank,1,parental.exposure,Hot,29.92,25,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:55,Tank7,Tank,2,parental.exposure,Hot,29.93,23,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:56,Tank8,Tank,1,parental.exposure,Ambient,28.07,23,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20170718,18:57,Tank8,Tank,2,parental.exposure,Ambient,28.02,25,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20180719,13:00,Tank5,Tank,1,parental.exposure,Ambient,27.93,229,NA,NA,NA,VS,Put loggers in at 17:03/added another heater to the exposure tanks
+20180719,13:00,Tank5,Tank,2,parental.exposure,Ambient,27.91,185,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:03,Tank6,Tank,1,parental.exposure,Hot,30.14,360,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:04,Tank6,Tank,2,parental.exposure,Hot,30.15,354,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:01,Tank7,Tank,1,parental.exposure,Hot,30.29,360,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:01,Tank7,Tank,2,parental.exposure,Hot,30.3,363,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:04,Tank8,Tank,1,parental.exposure,Ambient,27.95,225,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,13:05,Tank8,Tank,2,parental.exposure,Ambient,28.13,194,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:05,Tank5,Tank,1,parental.exposure,Ambient,28.15,25,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:04,Tank5,Tank,2,parental.exposure,Ambient,28.16,26,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:03,Tank6,Tank,1,parental.exposure,Hot,29.64,27,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:03,Tank6,Tank,2,parental.exposure,Hot,29.62,24,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:06,Tank7,Tank,1,parental.exposure,Hot,29.89,24,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:07,Tank7,Tank,2,parental.exposure,Hot,29.9,23,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:05,Tank8,Tank,1,parental.exposure,Ambient,28.05,23,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180719,18:06,Tank8,Tank,2,parental.exposure,Ambient,28.08,25,NA,NA,NA,VS,Put pendant into carboya at 13:21 on 20180719
+20180720,12:43,Tank5,Tank,1,parental.exposure,Ambient,27.99,233,NA,NA,NA,VS,
+20180720,12:41,Tank5,Tank,2,parental.exposure,Ambient,27.97,201,NA,NA,NA,VS,
+20180720,12:40,Tank6,Tank,1,parental.exposure,Hot,30.22,355,NA,NA,NA,VS,
+20180720,12:40,Tank6,Tank,2,parental.exposure,Hot,30.19,363,NA,NA,NA,VS,
+20180720,12:44,Tank7,Tank,1,parental.exposure,Hot,30.33,345,NA,NA,NA,VS,
+20180720,12:44,Tank7,Tank,2,parental.exposure,Hot,30.31,355,NA,NA,NA,VS,
+20180720,12:43,Tank8,Tank,1,parental.exposure,Ambient,27.96,233,NA,NA,NA,VS,
+20180720,12:43,Tank8,Tank,2,parental.exposure,Ambient,28.15,201,NA,NA,NA,VS,
+20180720,17:28,Tank5,Tank,1,parental.exposure,Ambient,28.01,66,NA,NA,NA,VS,
+20180720,17:29,Tank5,Tank,2,parental.exposure,Ambient,28,63,NA,NA,NA,VS,
+20180720,17:30,Tank6,Tank,1,parental.exposure,Hot,30.33,65,NA,NA,NA,VS,
+20180720,17:30,Tank6,Tank,2,parental.exposure,Hot,30.35,67,NA,NA,NA,VS,
+20180720,17:29,Tank7,Tank,1,parental.exposure,Hot,30.34,63,NA,NA,NA,VS,
+20180720,17:29,Tank7,Tank,2,parental.exposure,Hot,30.38,64,NA,NA,NA,VS,
+20180720,17:30,Tank8,Tank,1,parental.exposure,Ambient,28.28,61,NA,NA,NA,VS,
+20180720,17:30,Tank8,Tank,2,parental.exposure,Ambient,28.07,56,NA,NA,NA,VS,
+20180721,12:03,Tank5,Tank,1,parental.exposure,Ambient,28.01,288,NA,NA,NA,VS,
+20180721,12:02,Tank5,Tank,2,parental.exposure,Ambient,28.04,301,NA,NA,NA,VS,
+20180721,12:02,Tank6,Tank,1,parental.exposure,Hot,30.2,305,NA,NA,NA,VS,
+20180721,12:01,Tank6,Tank,2,parental.exposure,Hot,30.19,355,NA,NA,NA,VS,
+20180721,12:01,Tank7,Tank,1,parental.exposure,Hot,30.25,362,NA,NA,NA,VS,
+20180721,12:00,Tank7,Tank,2,parental.exposure,Hot,30.32,228,NA,NA,NA,VS,
+20180721,11:59,Tank8,Tank,1,parental.exposure,Ambient,28.22,220,NA,NA,NA,VS,
+20180721,11:59,Tank8,Tank,2,parental.exposure,Ambient,28.19,82,NA,NA,NA,VS,
+20180722,12:21,Tank5,Tank,1,parental.exposure,Ambient,28.01,209,NA,NA,NA,VS,
+20180722,12:21,Tank5,Tank,2,parental.exposure,Ambient,27.99,378,NA,NA,NA,VS,
+20180722,12:20,Tank6,Tank,1,parental.exposure,Hot,30.25,355,NA,NA,NA,VS,
+20180722,12:20,Tank6,Tank,2,parental.exposure,Hot,30.28,348,NA,NA,NA,VS,
+20180722,12:22,Tank7,Tank,1,parental.exposure,Hot,30.3,378,NA,NA,NA,VS,
+20180722,12:23,Tank7,Tank,2,parental.exposure,Hot,30.31,289,NA,NA,NA,VS,
+20180722,12:23,Tank8,Tank,1,parental.exposure,Ambient,28.03,220,NA,NA,NA,VS,
+20180722,12:24,Tank8,Tank,2,parental.exposure,Ambient,28.04,66,NA,NA,NA,VS,
+20180722,18:32,Tank5,Tank,1,parental.exposure,Ambient,28.11,27,NA,NA,NA,VS,
+20180722,18:32,Tank5,Tank,2,parental.exposure,Ambient,28.12,28,NA,NA,NA,VS,
+20180722,18:29,Tank6,Tank,1,parental.exposure,Hot,29.82,26,NA,NA,NA,VS,
+20180722,18:30,Tank6,Tank,2,parental.exposure,Hot,29.8,27,NA,NA,NA,VS,
+20180722,18:30,Tank7,Tank,1,parental.exposure,Hot,29.91,25,NA,NA,NA,VS,
+20180722,18:31,Tank7,Tank,2,parental.exposure,Hot,29.94,23,NA,NA,NA,VS,
+20180722,18:32,Tank8,Tank,1,parental.exposure,Ambient,28.07,22,NA,NA,NA,VS,
+20180722,18:33,Tank8,Tank,2,parental.exposure,Ambient,28.1,25,NA,NA,NA,VS,
+20180723,14:00,Tank5,Tank,1,parental.exposure,Ambient,29.11,1255,NA,NA,NA,VS,
+20180723,14:01,Tank5,Tank,2,parental.exposure,Ambient,29.08,1225,NA,NA,NA,VS,
+20180723,14:01,Tank6,Tank,1,parental.exposure,Hot,31.81,1026,NA,NA,NA,VS,
+20180723,14:03,Tank6,Tank,2,parental.exposure,Hot,31.87,1485,NA,NA,NA,VS,
+20180723,14:04,Tank7,Tank,1,parental.exposure,Hot,31.99,1488,NA,NA,NA,VS,
+20180723,14:04,Tank7,Tank,2,parental.exposure,Hot,32.04,1260,NA,NA,NA,VS,
+20180723,14:05,Tank8,Tank,1,parental.exposure,Ambient,29.49,1446,NA,NA,NA,VS,
+20180723,14:05,Tank8,Tank,2,parental.exposure,Ambient,29.4,1120,NA,NA,NA,VS,
+20180723,18:14,Tank5,Tank,1,parental.exposure,Ambient,28.89,41,NA,NA,NA,VS,
+20180723,18:14,Tank5,Tank,2,parental.exposure,Ambient,28.88,45,NA,NA,NA,VS,
+20180723,18:17,Tank6,Tank,1,parental.exposure,Hot,31.26,39,NA,NA,NA,VS,
+20180723,18:17,Tank6,Tank,2,parental.exposure,Hot,31.21,41,NA,NA,NA,VS,
+20180723,18:14,Tank7,Tank,1,parental.exposure,Hot,31.21,27,NA,NA,NA,VS,
+20180723,18:15,Tank7,Tank,2,parental.exposure,Hot,31.23,34,NA,NA,NA,VS,
+20180723,18:16,Tank8,Tank,1,parental.exposure,Ambient,28.94,32,NA,NA,NA,VS,
+20180723,18:16,Tank8,Tank,2,parental.exposure,Ambient,28.95,33,NA,NA,NA,VS,
+20180724,13:38,Tank5,Tank,1,parental.exposure,Ambient,28.01,1311,NA,NA,NA,VS,
+20180724,13:36,Tank5,Tank,2,parental.exposure,Ambient,28,116,NA,NA,NA,VS,
+20180724,13:37,Tank6,Tank,1,parental.exposure,Hot,30.77,1484,NA,NA,NA,VS,
+20180724,13:35,Tank6,Tank,2,parental.exposure,Hot,30.76,1390,NA,NA,NA,VS,
+20180724,13:34,Tank7,Tank,1,parental.exposure,Hot,30.89,1280,NA,NA,NA,VS,
+20180724,13:34,Tank7,Tank,2,parental.exposure,Hot,30.9,1147,NA,NA,NA,VS,
+20180724,13:33,Tank8,Tank,1,parental.exposure,Ambient,27.94,270,NA,NA,NA,VS,
+20180724,13:33,Tank8,Tank,2,parental.exposure,Ambient,27.95,180,NA,NA,NA,VS,
+20180725,13:46,Tank5,Tank,1,parental.exposure,Ambient,29.29,1226,NA,NA,NA,VS,
+20180725,13:46,Tank5,Tank,2,parental.exposure,Ambient,29.29,926,NA,NA,NA,VS,
+20180725,13:50,Tank6,Tank,1,parental.exposure,Hot,32.25,1394,NA,NA,NA,VS,
+20180725,13:50,Tank6,Tank,2,parental.exposure,Hot,32.26,1301,NA,NA,NA,VS,
+20180725,13:47,Tank7,Tank,1,parental.exposure,Hot,32.53,1332,NA,NA,NA,VS,
+20180725,13:47,Tank7,Tank,2,parental.exposure,Hot,32.54,1010,NA,NA,NA,VS,
+20180725,13:52,Tank8,Tank,1,parental.exposure,Ambient,29.72,1172,NA,NA,NA,VS,
+20180725,13:52,Tank8,Tank,2,parental.exposure,Ambient,29.68,186,NA,NA,NA,VS,
+20180725,16:27,Tank5,Tank,1,parental.exposure,Ambient,30.02,847,NA,NA,NA,VS,
+20180725,16:27,Tank5,Tank,2,parental.exposure,Ambient,30,625,NA,NA,NA,VS,
+20180725,16:29,Tank6,Tank,1,parental.exposure,Hot,32.84,608,NA,NA,NA,VS,
+20180725,16:29,Tank6,Tank,2,parental.exposure,Hot,32.87,334,NA,NA,NA,VS,
+20180725,16:28,Tank7,Tank,1,parental.exposure,Hot,32.82,66,NA,NA,NA,VS,
+20180725,16:28,Tank7,Tank,2,parental.exposure,Hot,32.81,47,NA,NA,NA,VS,
+20180725,16:30,Tank8,Tank,1,parental.exposure,Ambient,29.86,36,NA,NA,NA,VS,
+20180725,16:30,Tank8,Tank,2,parental.exposure,Ambient,29.36,40,NA,NA,NA,VS,
+20180726,12:30,Tank5,Tank,1,parental.exposure,Ambient,28.74,1035,NA,NA,NA,VS,
+20180726,12:30,Tank5,Tank,2,parental.exposure,Ambient,28.73,93,NA,NA,NA,VS,
+20180726,12:31,Tank6,Tank,1,parental.exposure,Hot,31.28,930,NA,NA,NA,VS,
+20180726,12:31,Tank6,Tank,2,parental.exposure,Hot,31.29,1353,NA,NA,NA,VS,
+20180726,12:32,Tank7,Tank,1,parental.exposure,Hot,31.58,1179,NA,NA,NA,VS,
+20180726,12:32,Tank7,Tank,2,parental.exposure,Hot,31.59,1110,NA,NA,NA,VS,
+20180726,12:33,Tank8,Tank,1,parental.exposure,Ambient,28.78,1130,NA,NA,NA,VS,
+20180726,12:33,Tank8,Tank,2,parental.exposure,Ambient,28.81,107,NA,NA,NA,VS,
+20180726,17:09,Tank5,Tank,1,parental.exposure,Ambient,30.08,14,NA,NA,NA,VS,
+20180726,17:10,Tank5,Tank,2,parental.exposure,Ambient,30.07,14,NA,NA,NA,VS,
+20180726,17:11,Tank6,Tank,1,parental.exposure,Hot,31.56,13,NA,NA,NA,VS,
+20180726,17:12,Tank6,Tank,2,parental.exposure,Hot,31.56,14,NA,NA,NA,VS,
+20180726,17:12,Tank7,Tank,1,parental.exposure,Hot,31.61,12,NA,NA,NA,VS,
+20180726,17:13,Tank7,Tank,2,parental.exposure,Hot,31.63,15,NA,NA,NA,VS,
+20180726,17:13,Tank8,Tank,1,parental.exposure,Ambient,29.93,12,NA,NA,NA,VS,
+20180726,17:14,Tank8,Tank,2,parental.exposure,Ambient,29.94,11,NA,NA,NA,VS,
+20180727,12:54,Tank5,Tank,1,parental.exposure,Ambient,28.8,1448,NA,NA,NA,VS,
+20180727,12:54,Tank5,Tank,2,parental.exposure,Ambient,28.82,128,NA,NA,NA,VS,
+20180727,12:55,Tank6,Tank,1,parental.exposure,Hot,31.54,1227,NA,NA,NA,VS,
+20180727,12:55,Tank6,Tank,2,parental.exposure,Hot,31.53,1008,NA,NA,NA,VS,
+20180727,12:56,Tank7,Tank,1,parental.exposure,Hot,31.76,1219,NA,NA,NA,VS,
+20180727,12:56,Tank7,Tank,2,parental.exposure,Hot,31.84,1133,NA,NA,NA,VS,
+20180727,12:57,Tank8,Tank,1,parental.exposure,Ambient,28.91,1470,NA,NA,NA,VS,
+20180727,12:57,Tank8,Tank,2,parental.exposure,Ambient,28.92,112,NA,NA,NA,VS,
+20180727,17:13,Tank5,Tank,1,parental.exposure,Ambient,30.08,14,NA,NA,NA,VS,
+20180727,17:13,Tank5,Tank,2,parental.exposure,Ambient,30.07,14,NA,NA,NA,VS,
+20180727,17:15,Tank6,Tank,1,parental.exposure,Hot,31.56,13,NA,NA,NA,VS,
+20180727,17:15,Tank6,Tank,2,parental.exposure,Hot,31.56,14,NA,NA,NA,VS,
+20180727,17:14,Tank7,Tank,1,parental.exposure,Hot,31.61,12,NA,NA,NA,VS,
+20180727,17:14,Tank7,Tank,2,parental.exposure,Hot,31.63,15,NA,NA,NA,VS,
+20180727,17:16,Tank8,Tank,1,parental.exposure,Ambient,29.93,12,NA,NA,NA,VS,
+20180727,17:16,Tank8,Tank,2,parental.exposure,Ambient,29.94,11,NA,NA,NA,VS,
+20180728,12:01,Tank5,Tank,1,parental.exposure,Ambient,28.8,1556,NA,NA,NA,VS,
+20180728,12:01,Tank5,Tank,2,parental.exposure,Ambient,28.82,134,NA,NA,NA,VS,
+20180728,12:02,Tank6,Tank,1,parental.exposure,Hot,31.64,1333,NA,NA,NA,VS,
+20180728,12:02,Tank6,Tank,2,parental.exposure,Hot,31.63,997,NA,NA,NA,VS,
+20180728,12:00,Tank7,Tank,1,parental.exposure,Hot,31.86,1321,NA,NA,NA,VS,
+20180728,12:00,Tank7,Tank,2,parental.exposure,Hot,31.84,1010,NA,NA,NA,VS,
+20180728,11:59,Tank8,Tank,1,parental.exposure,Ambient,28.81,1587,NA,NA,NA,VS,
+20180728,11:59,Tank8,Tank,2,parental.exposure,Ambient,28.91,89,NA,NA,NA,VS,
+20180729,12:35,Tank5,Tank,1,parental.exposure,Ambient,29.01,1358,NA,NA,NA,VS,
+20180729,12:33,Tank5,Tank,2,parental.exposure,Ambient,29.02,148,NA,NA,NA,VS,
+20180729,12:34,Tank6,Tank,1,parental.exposure,Hot,31.33,1387,NA,NA,NA,VS,
+20180729,12:34,Tank6,Tank,2,parental.exposure,Hot,31.32,982,NA,NA,NA,VS,
+20180729,12:32,Tank7,Tank,1,parental.exposure,Hot,31.98,1310,NA,NA,NA,VS,
+20180729,12:32,Tank7,Tank,2,parental.exposure,Hot,31.99,1010,NA,NA,NA,VS,
+20180729,12:31,Tank8,Tank,1,parental.exposure,Ambient,28.95,1563,NA,NA,NA,VS,
+20180729,12:31,Tank8,Tank,2,parental.exposure,Ambient,28.96,181,NA,NA,NA,VS,
+20180730,9:56,Tank5,Tank,1,parental.exposure,Ambient,28.19,30,NA,NA,NA,VS,
+20180730,9:56,Tank5,Tank,2,parental.exposure,Ambient,28.17,55,NA,NA,NA,VS,
+20180730,9:58,Tank6,Tank,1,parental.exposure,Hot,30.53,48,NA,NA,NA,VS,
+20180730,9:58,Tank6,Tank,2,parental.exposure,Hot,30.53,107,NA,NA,NA,VS,
+20180730,9:57,Tank7,Tank,1,parental.exposure,Hot,31.22,30,NA,NA,NA,VS,
+20180730,9:57,Tank7,Tank,2,parental.exposure,Hot,31.35,114,NA,NA,NA,VS,
+20180730,10:01,Tank8,Tank,1,parental.exposure,Ambient,28.06,32,NA,NA,NA,VS,
+20180730,10:01,Tank8,Tank,2,parental.exposure,Ambient,28.06,99,NA,NA,NA,VS,
+20180831,13:02,Tank5,Tank,1,planulation.period,Ambient,29.35,1234,NA,NA,NA,VS,Took out two fiber glass tanks
+20180831,13:02,Tank5,Tank,2,planulation.period,Ambient,29.32,233,NA,NA,NA,VS,Took out two fiber glass tanks
+20180831,13:01,Tank7,Tank,1,planulation.period,Hot,31.33,1101,NA,NA,NA,VS,Took out two fiber glass tanks
+20180831,13:00,Tank7,Tank,2,planulation.period,Hot,31.34,933,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,13:03,Tank5,Tank,1,planulation.period,Ambient,29.49,80,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,13:02,Tank5,Tank,2,planulation.period,Ambient,29.4,70,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,13:02,Tank7,Tank,1,planulation.period,Hot,31.29,71,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,13:01,Tank7,Tank,2,planulation.period,Hot,31.41,78,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,19:45,Tank5,Tank,1,planulation.period,Ambient,29.25,22,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,19:45,Tank5,Tank,2,planulation.period,Ambient,29.22,21,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,19:46,Tank7,Tank,1,planulation.period,Hot,31.33,18,NA,NA,NA,VS,Took out two fiber glass tanks
+20180801,19:46,Tank7,Tank,2,planulation.period,Hot,31.31,19,NA,NA,NA,VS,Took out two fiber glass tanks
+20180802,14:48,Tank5,Tank,1,planulation.period,Ambient,30.36,475,NA,NA,NA,VS,
+20180802,14:48,Tank5,Tank,2,planulation.period,Ambient,30.35,380,NA,NA,NA,VS,
+20180802,14:48,Tank7,Tank,1,planulation.period,Hot,32.86,311,NA,NA,NA,VS,
+20180802,14:48,Tank7,Tank,2,planulation.period,Hot,32.88,274,NA,NA,NA,VS,
+20180802,19:05,Tank5,Tank,1,planulation.period,Ambient,29.96,5,NA,NA,NA,VS,
+20180802,19:05,Tank5,Tank,2,planulation.period,Ambient,29.98,3,NA,NA,NA,VS,
+20180802,19:05,Tank7,Tank,1,planulation.period,Hot,32.4,4,NA,NA,NA,VS,
+20180802,19:05,Tank7,Tank,2,planulation.period,Hot,32.42,4,NA,NA,NA,VS,
+20180802,19:14,Jug1,Jug,1,planulation.period,Ambient,29.62,6,NA,NA,NA,VS,
+20180802,19:14,Jug2,Jug,1,planulation.period,Ambient,29.33,5,NA,NA,NA,VS,
+20180802,19:14,Jug3,Jug,1,planulation.period,Ambient,29.77,5,NA,NA,NA,VS,
+20180802,19:14,Jug4,Jug,1,planulation.period,Ambient,29.51,6,NA,NA,NA,VS,
+20180802,19:14,Jug5,Jug,1,planulation.period,Ambient,29.35,3,NA,NA,NA,VS,
+20180802,19:14,Jug6,Jug,1,planulation.period,Hot,30.36,6,NA,NA,NA,VS,
+20180802,19:14,Jug7,Jug,1,planulation.period,Hot,30.61,3,NA,NA,NA,VS,
+20180802,19:14,Jug8,Jug,1,planulation.period,Hot,30.69,4,NA,NA,NA,VS,
+20180802,19:14,Jug9,Jug,1,planulation.period,Hot,31.01,3,NA,NA,NA,VS,
+20180802,19:14,Jug10,Jug,1,planulation.period,Hot,30.72,5,NA,NA,NA,VS,
