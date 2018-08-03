@@ -117,11 +117,20 @@ jugs.daily <- subset(daily, Experimental.Stage == "planulation.period" & Type ==
 jugs.daily$Sample.ID <- factor(jugs.daily$Sample.ID)
 
 
-pdf("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Incubation_Jug_Exposure_Daily_Exp.pdf")
+pdf("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Planulation_Jug_Daily.pdf")
 par(mfrow=c(2,2))
-plot(jugs.daily$Treatment, jugs.daily$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main='Temperature for\n larval exposure period')
-plot(jugs.daily$Sample.ID, jugs.daily$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main='Temperature per jug for\n larval exposure period')
-plot(jugs.daily$Treatment, jugs.daily$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for larval exposure period")
-plot(jugs.daily$Sample.ID, jugs.daily$Light, xlab="Treatment", ylab="Light(PAR)",main="Light per jug for\n larval exposure period")
+plot(jugs.daily$Treatment, jugs.daily$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main='Temperature for\n adult planulation period')
+plot(jugs.daily$Sample.ID, jugs.daily$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main='Temperature per jug for\n adult planulation period')
+plot(jugs.daily$Treatment, jugs.daily$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for adult planulation period")
+plot(jugs.daily$Sample.ID, jugs.daily$Light, xlab="Treatment", ylab="Light(PAR)",main="Light per jug for\n adult planulation period")
+dev.off()
+
+################PLANULATION PERIOD COMPARED TO PARENTAL EXPOSURE########################
+pdf("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Planulation_Parental_Comparison.pdf")
+par(mfrow=c(2,2))
+plot(jugs.daily$Treatment, jugs.daily$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main='Temperature for\n adult planulation period')
+plot(daily2$Treatment, daily2$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main="Temperature for\n parental exposure period")
+plot(jugs.daily$Treatment, jugs.daily$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for adult planulation period")
+plot(daily2$Treatment, daily2$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for parental exposure period")
 dev.off()
 
