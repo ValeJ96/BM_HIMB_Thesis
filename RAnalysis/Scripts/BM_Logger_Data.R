@@ -1,9 +1,8 @@
 #Senior Thesis
-#Data published in X
 #Title: 
 #Contact: vjs2@Princeton.edu
-#Supported by: Princeton University
-#See Readme file for details on data files and metadata
+#R Version: R version 3.3.1
+#RStudio Version: 1.0.44
 
 rm(list=ls()) # removes all prior objects
 
@@ -19,11 +18,11 @@ library(anytime)
 #From Calib folder: "Carboy1.csv" "Carboy2.csv" "Tank5.csv"   "Tank6.csv"   "Tank7.csv"  "Tank8.csv"
 
 ##############################################################LOGGER CALIBRATION###############################################################
-setwd("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/logger_calib")
-mypath <-("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/logger_calib")
+####################################ADULT EXPOSURE TANKS#####################################################
+setwd("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/Calibration_20180719")
+mypath <-("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/Calibration_20180719")
 filenames<-list.files(path = mypath, pattern = "csv$")
 
-filenames<-list.files(path = mypath, pattern = "csv$")
 for (i in 1:length(filenames)) assign(filenames[i], read.csv(filenames[i]))
 
 list.logger = list(Carboy1.csv, Carboy2.csv, Tank5.csv, Tank6.csv, Tank7.csv, Tank8.csv)
@@ -53,16 +52,59 @@ loggerplot +
   theme(axis.text = element_text(size =8, angle = 90, hjust = 1), plot.title = element_text(size = 16, hjust = 0.1,face = 'bold')) +
   ggtitle(    '            Logger Calibration') + theme(plot.title = element_text(size = 16)) + 
   ylab('Temperature°C') + 
-  xlab('Date') + 
+  xlab('Time') + 
   theme (plot.margin = grid::unit(c(0,0, 0,0), "null")) + 
   theme(axis.title.y = element_text(size = rel(1.2), angle = 90, face = 'bold')) + 
   theme(axis.title.x = element_text(size = rel(1.2), angle = 0, face = 'bold')) + 
   labs(colour='Logger Location') + theme(legend.text = element_text(size = 12)) + 
   scale_y_continuous(name="Temperature°C", limits = c(20,28), breaks=seq(20,30, by=1))
-ggsave("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Logger_Calibration.pdf", plot = last_plot(), device = NULL, path = NULL,
+ggsave("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Logger_Calibration_Adult.pdf", plot = last_plot(), device = NULL, path = NULL,
        scale = 1, width = NA, height = NA, units = c("in", "cm", "mm"),
        dpi = 300, limitsize = TRUE)}
 
+#############################################EXPOSURE TANKS#########################################################
+rm(list=ls()) # removes all prior objects
+setwd("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/Calibration_20180803")
+mypath <-("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Data/BM/Calibration_20180803")
+filenames<-list.files(path = mypath, pattern = "csv$")
+
+for (i in 1:length(filenames)) assign(filenames[i], read.csv(filenames[i]))
+
+list.logger = list(Common.garden.csv, Tank1.csv, Tank2.csv, Tank3.csv, Tank4.csv)
+
+master.function <- function(dfNames) {
+  do.call(rbind, lapply(dfNames, function(x) {
+    cbind(get(x), source = x)
+  }))
+}
+
+#Rename logger.d columns
+plot.logger = master.function(c(filenames)) ;colnames(plot.logger) = c("Point", "Date_Time","Temperature", "Data.Frame") 
+
+#Order and cut ot the same length (right before any NAs)
+plot.logger = plot.logger[order(plot.logger$Point),]
+plot.logger = subset(plot.logger, Point < 215)
+
+#Fixing Time Zone (TZ) issues!!!
+plot.logger$Date_Time = as.POSIXct(plot.logger$Date_Time,format="%m/%d/%y %H:%M")
+class(plot.logger$Date_Time)
+
+#Plot with date and time
+{loggerplot = ggplot(plot.logger, aes(x = Date_Time, y = Temperature, group = Data.Frame, colour= Data.Frame))
+  loggerplot + 
+    geom_line() + 
+    theme(axis.text = element_text(size =8, angle = 90, hjust = 1), plot.title = element_text(size = 16, hjust = 0.1,face = 'bold')) +
+    ggtitle(    '            Logger Calibration') + theme(plot.title = element_text(size = 16)) + 
+    ylab('Temperature°C') + 
+    xlab('Time') + 
+    theme (plot.margin = grid::unit(c(0,0, 0,0), "null")) + 
+    theme(axis.title.y = element_text(size = rel(1.2), angle = 90, face = 'bold')) + 
+    theme(axis.title.x = element_text(size = rel(1.2), angle = 0, face = 'bold')) + 
+    labs(colour='Logger Location') + theme(legend.text = element_text(size = 12)) + 
+    scale_y_continuous(name="Temperature°C", limits = c(20,28), breaks=seq(20,30, by=1))
+  ggsave("/Users/valerieschmidt/MyProjects/BM_HIMB_Thesis/RAnalysis/Output/BM_Logger_Calibration_Exposure_Tanks.pdf", plot = last_plot(), device = NULL, path = NULL,
+         scale = 1, width = NA, height = NA, units = c("in", "cm", "mm"),
+         dpi = 300, limitsize = TRUE)}
 
 #############################################EXTRA STUFF############################################################
 #Split date and time and bind date and time back to plot.logger dataframe
