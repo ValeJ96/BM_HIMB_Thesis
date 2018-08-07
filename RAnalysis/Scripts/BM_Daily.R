@@ -37,11 +37,11 @@ plot(daily1$Treatment, daily1$Temperature, xlab="Treatment", ylab="Temperature°
 plot(daily2$Treatment, daily2$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main="Temperature for\n parental exposure period")
 plot(daily3$Treatment, daily3$Temperature, xlab="Treatment", ylab="Temperature°C", ylim=c(23,35), main="Temperature for\n planulation period")
 plot(daily1$Treatment, daily1$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for test period")
-plot(daily2$Treatment, daily2$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for parental exposure period")
+plot(daily2$Treatment, daily2$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for parental\n exposure period")
 plot(daily3$Treatment, daily3$Light, xlab="Treatment", ylab="Light(PAR)", main="Light for planulation period")
 plot(daily1$Sample.ID, daily1$Light, xlab="Treatment", ylab="Light(PAR)", main="Light per tank for test period")
 plot(daily2$Sample.ID, daily2$Light, xlab="Treatment", ylab="Light(PAR)",main="Light per tank for\n parental exposure period")
-plot(daily3$Sample.ID, daily3$Light, xlab="Treatment", ylab="Light(PAR)", main="Light per tank for\n planulation period")
+plot(daily3$Sample.ID, daily3$Light, xlab="Treatment", ylab="Light(PAR)", main="Light per jug for\n planulation period")
 dev.off()
 
 ###########################################################INCUBATION TANKS###################################################
